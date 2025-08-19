@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+numpy
+librosa
+tensorflow
+joblib
+werkzeug
+requests
